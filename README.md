@@ -1,1 +1,1 @@
-# CS_634_Final_Project
+# Data Mining Final Project
